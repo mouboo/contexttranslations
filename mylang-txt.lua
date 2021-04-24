@@ -122,7 +122,7 @@ data.labels={
     ["nl"]="Deel",
     ["sr"]="Том",
     ["sr-latn"]="Tom",
-    ["sv"]="Del",
+    ["sv"]="Volym",
    },
   },
   ["and"]={
@@ -259,6 +259,7 @@ data.labels={
     ["nl"]="van",
     ["sr"]="од",
     ["sr-latn"]="od",
+    ["sv"]="av",
    },
   },
   ["others"]={
@@ -269,6 +270,7 @@ data.labels={
     ["mk"]="и др.",
     ["sr"]="и др.",
     ["sr-latn"]="i dr.",
+    ["sv"]="et al.",
    },
   },
   ["p"]={
@@ -282,6 +284,7 @@ data.labels={
     ["mk"]="стр.",
     ["sr"]="стр.",
     ["sr-latn"]="str.",
+    ["sv"]="s.",
    },
   },
   ["pages"]={
@@ -297,6 +300,7 @@ data.labels={
     ["nl"]="paginas",
     ["sr"]="страницa",
     ["sr-latn"]="stranica",
+    ["sv"]="sidor",
    },
   },
   ["patent"]={
@@ -314,6 +318,7 @@ data.labels={
     ["nl"]="Octrooi",
     ["sr"]="Патент",
     ["sr-latn"]="Patent",
+    ["sv"]="Patent",
    },
   },
   ["phdthesis"]={
@@ -332,6 +337,7 @@ data.labels={
     ["nl"]="Proefschrift",
     ["sr"]="Докторска дисертација",
     ["sr-latn"]="Doktorska disertacija",
+    ["sv"]="Doktorsavhandling",
    },
   },
   ["pp"]={
@@ -344,6 +350,7 @@ data.labels={
     ["mk"]="стр.",
     ["sr"]="стр.",
     ["sr-latn"]="str.",
+    ["sv"]="s.",
    },
   },
   ["technicalreport"]={
@@ -362,6 +369,7 @@ data.labels={
     ["nl"]="Technisch rapport",
     ["sr"]="Технички извештај",
     ["sr-latn"]="Tehnički izveštaj",
+    ["sv"]="Teknisk rapport",
    },
   },
   ["volume"]={
@@ -377,6 +385,7 @@ data.labels={
     ["nl"]="deel",
     ["sr"]="том",
     ["sr-latn"]="tom",
+    ["sv"]="volym",
    },
   },
   ["with"]={
@@ -394,6 +403,7 @@ data.labels={
     ["nl"]="met",
     ["sr"]="са",
     ["sr-latn"]="sa",
+    ["sv"]="med",
    },
   },
  },
@@ -407,6 +417,7 @@ data.labels={
     ["sk"]="P",
     ["sr"]="P",
     ["sr-latn"]="P",
+    ["sv"]="P",
    },
   },
   ["arccos"]={
@@ -421,6 +432,7 @@ data.labels={
     ["sk"]="arccos",
     ["sr"]="arccos",
     ["sr-latn"]="arccos",
+    ["sv"]="arccos",
    },
   },
   ["arccosh"]={
@@ -435,6 +447,7 @@ data.labels={
     ["sk"]="arccosh",
     ["sr"]="arccosh",
     ["sr-latn"]="arccosh",
+    ["sv"]="arccosh",
    },
   },
   ["arcctg"]={
@@ -449,6 +462,7 @@ data.labels={
     ["sk"]="arccotg",
     ["sr"]="arcctg",
     ["sr-latn"]="arcctg",
+    ["sv"]="arccot",
    },
   },
   ["arcsin"]={
@@ -463,6 +477,7 @@ data.labels={
     ["sk"]="arcsin",
     ["sr"]="arcsin",
     ["sr-latn"]="arcsin",
+    ["sv"]="arcsin",
    },
   },
   ["arcsinh"]={
@@ -477,6 +492,7 @@ data.labels={
     ["sk"]="arcsinh",
     ["sr"]="arcsinh",
     ["sr-latn"]="arcsinh",
+    ["sv"]="arcsinh",
    },
   },
   ["arctan"]={
@@ -491,6 +507,7 @@ data.labels={
     ["sk"]="arctg",
     ["sr"]="arctg",
     ["sr-latn"]="arctg",
+    ["sv"]="arctan",
    },
   },
   ["arctanh"]={
@@ -505,6 +522,7 @@ data.labels={
     ["sk"]="arctgh",
     ["sr"]="arctgh",
     ["sr-latn"]="arctgh",
+    ["sv"]="arctanh",
    },
   },
   ["arg"]={
@@ -517,6 +535,7 @@ data.labels={
     ["sk"]="arg",
     ["sr"]="arg",
     ["sr-latn"]="arg",
+    ["sv"]="arg",
    },
   },
   ["cos"]={
@@ -529,6 +548,7 @@ data.labels={
     ["sk"]="cos",
     ["sr"]="cos",
     ["sr-latn"]="cos",
+    ["sv"]="cos",
    },
   },
   ["cosh"]={
@@ -541,6 +561,7 @@ data.labels={
     ["sk"]="cosh",
     ["sr"]="cosh",
     ["sr-latn"]="cosh",
+    ["sv"]="cosh",
    },
   },
   ["cot"]={
@@ -555,6 +576,7 @@ data.labels={
     ["sk"]="cotg",
     ["sr"]="ctg",
     ["sr-latn"]="ctg",
+    ["sv"]="cot",
    },
   },
   ["coth"]={
@@ -567,6 +589,7 @@ data.labels={
     ["sk"]="cotgh",
     ["sr"]="ctgh",
     ["sr-latn"]="ctgh",
+    ["sv"]="coth",
    },
   },
   ["csc"]={
@@ -579,6 +602,7 @@ data.labels={
     ["sk"]="cosec",
     ["sr"]="cosec",
     ["sr-latn"]="cosec",
+    ["sv"]="csc",
    },
   },
   ["ctg"]={
@@ -593,6 +617,7 @@ data.labels={
     ["sk"]="cotg",
     ["sr"]="ctg",
     ["sr-latn"]="ctg",
+    ["sv"]="cot",
    },
   },
   ["deg"]={
